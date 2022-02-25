@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Scourge for a fool, or, An Answer to a late scandalous piece of nonsense entituled, A Hue and cry after the Bishop of Ely</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58841</idno>
+            <idno type="STC">Wing S2105</idno>
+            <idno type="STC">ESTC R37208</idno>
+            <idno type="EEBO-CITATION">16268339</idno>
+            <idno type="OCLC">ocm 16268339</idno>
+            <idno type="VID">105204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Scourge for a fool, or, An Answer to a late scandalous piece of nonsense entituled, A Hue and cry after the Bishop of Ely</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ... for W. Rayner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Francis, 1638?-1700.</term>
+               <term>Church of England --  History --  17th century.</term>
+               <term>Hue and cry after the abdicated B--- of E--.</term>
+               <term>Nonjurors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105204:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <head>A <hi>Scourge for a Fool:</hi> OR AN ANSWER TO A Late Scandalous Piece of Nonſenſe, ENTITULED, <hi>A Hue and Cry after the Biſhop of</hi> ELY.</head>
+            <p>IT was my Chance the other day, to meet with an Abſurd Pamphlet, as void of Wit as of Honeſty, Entituled, A <hi>Hue and Cry after the B. of</hi> E— and reading the Title, my Curioſity led me to view the Paper it ſelf; and having read it over, I found it ſo full of Hyperbolous Slanders, Scurrilous Railings, Odious Epithets, Baſe Aſpertions, and in ſuch a true <hi>Billingſgate</hi> Dialect, and Alſatian Stile, that I ſoon diſ<g ref="char:EOLhyphen"/>covered the Author to be a true Son of <hi>Zantippe,</hi> an accompliſhed Interloping Scribler, who fancies himſelf a more than ordinary Wit; but I fancy the contrary; and am ſure, whatever his Wit may be, he has no more Honeſty than he ſhould have.</p>
+            <p>He firſt makes Proclamation, and tells you in no leſs than Eight the moſt Odious Words that Malice could invent, that the B. of <hi>E.</hi> has lately withdrawn himſelf, and is gone God knows whether: But if it be ſo, yet (under favour Mr. <hi>Hue and Cry</hi>) it does not behove you to reflect upon him in ſuch an Odious manner; do you
+<pb n="2" facs="tcp:105204:2"/>
+               <!-- PDF PAGE 37 -->
+think (Reaſon guiding you) that a Man of his Birth, Education, Learning and Parts, and which ought to be Eſteemed by every conſiderate Man, a Man of that Sacred Order, ought to be Scandalized by every Buffooning Scribler, that underſtands no more in Divinity than a Horſe does in Grammar; and who is no deeper Learned than <hi>Eſop</hi>'s Fables; nor in Poetry than juſt to make a Ballad: Such ill-minded Men as theſe ſwarm in the City, and their Actions are intolerable.</p>
+            <p>Then he tells you, if any Body (in an Antick Deriding Method names ſeveral) will bring the B. Alive to Juſtice, they ſhall have 5000 French Crowns Reward. Indeed I admire he had the Modeſty to ſtop here, and not cry <hi>Dead or Alive,</hi> that ſomebody might have Murthered him and brought his Head; but being in haſte when he wrote the Hue and Cry, (as you know Men generally are) forgot to put that word <hi>Dead</hi> into it. But firſt I would fain know by what Authority he Publiſhed this Scandalous Pamphlet: And ſecondly, who will pay this 5000 Crowns? <hi>O Scandalum Magnatum!</hi> What Diſtra<g ref="char:EOLhyphen"/>ctions are likely to be in a Government, when ſuch baſe Men thus odiouſly abuſe the Members! What Diviſions may ſuch Pamphlets cauſe, and what would not ſome Men do for Lucre ſake!</p>
+            <p>In the next place, <hi>Leaſt you ſhould miſtake the Perſon,</hi> he undertakes to deſcribe him to you in his proper Colours, which this Scandalous Scribler tells you, are as Changeable as his Religion and Allegiance: And calls this Reverend Prelate Grand Incendiary of Cre<g ref="char:EOLhyphen"/>dulous Bigotiſm: <hi>And now,</hi> ſays the Cryer, <hi>you will ſee the Pretended Father of the Holy Word, transformed into a Bully of the Sword.</hi>
+            </p>
+            <p>And now let any Man, void of Partiality, judge whe<g ref="char:EOLhyphen"/>ther theſe things be ſufferable in a Government: If he has offended, let him anſwer it himſelf to the Govern<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:105204:2"/>
+               <!-- PDF PAGE 37 -->who have Power to Examine and Puniſh Offenders according to their Demerits; but let not ſuch little Writers meddle with things of this nature, (which are as far out of their Sphere as common Senſe is) and not abuſe a Prelate with ſuch unbeſeeming Epithets, odious Names, and Rail at ſo deſperate a Rate, that it makes a Modeſt Man, or a Man that has common Civility, bluſh to read it. I admire where this little Writer learn'd this Character of the B. I am certain it is only a Deviliſh Invention of a Malicious Mind, induced to do it, partly out of Envy, and partly for Gain; for I Challenge this little Cryer, and all the Men in <hi>England,</hi> to prove that the B. ever changed his Religion, (as this Impoſture affirms) for he was Born from his Cradle, and is ſtill, a Proteſtant of the Church of <hi>England; and I dare him, and all his Brother Cryers about Town, to prove the contrary.</hi>
+            </p>
+            <p>In the next place our Cryer falls to Railing again, and calls the B. Impoſture, Shame to his Order, <hi>&amp;c.</hi> and tells you, that you will find the B. in the Habit of a Soldier, Arm'd Cap-a-pe, with Embroidered Coat, Fringed Scarf, and Scarlet Feather, in this Equipage he tells you he was met upon the Road, going to appear <hi>Propria Perſone</hi> in <hi>France.</hi> If it be ſo, I deſire Mr. <hi>Hue and Cry</hi> to let me know who met him in this Garb, at what Place and Time, and why they did not Seize him, as a Revolter from the Government; but (becauſe you ſhould mind the Man is a Scholler) he tells you he is gone in <hi>Propria Perſona,</hi> to St. <hi>Lewis</hi> and St. <hi>James.</hi> Indeed Mr. <hi>Hue</hi> you might have altered your <hi>Cry,</hi> and told us the Biſhop was met upon the <hi>Roadibus,</hi> upon a <hi>Horſibus,</hi> going for <hi>Francibus,</hi> and ſo have told all your Tale in Latin.</p>
+            <p>Now comes a Deſcription of his Phiſiognomy, here he Spits his Venom again, giving the moſt Odious De<g ref="char:EOLhyphen"/>ſcription
+<pb n="4" facs="tcp:105204:3"/>
+               <!-- PDF PAGE 38 -->of him that his Malice could invent, and in a <hi>Parentheſis</hi> tells you, that the B. had on a Flaxen Perriwig: Monſtrous Hyperboler! ſee thy own words and Bluſh. And then he tells you the greateſt Impro<g ref="char:EOLhyphen"/>bability in the World, <hi>viz.</hi> That <hi>he loves to ſhelter him<g ref="char:EOLhyphen"/>ſelf under the Wings of Tyranny and Popery.</hi> It is appa<g ref="char:EOLhyphen"/>rent that he is no Admirer of Popery, as was evident when the late K. <hi>James</hi> ſent him to the Tower; and I durſt ingage my Life, that he would ſooner looſe his than turn Papiſt; but Malice never ſpeaks well.</p>
+            <p>Then this Cryer ſets up his Notes and ſays, That <hi>in Parliament time he was commonly Crowding in the Court of Requeſts, or Lobby of the Houſe of Lords, Fawning on ſome Debauchee, or Atheiſtical Bravo.</hi> It is well known that the B. was a Pious Man, and took as much Pains in Preaching, Expounding, <hi>&amp;c.</hi> and uſed it as frequently, and with as much Zeal and Care, and indeavoured to promote Religion as much as any Man in <hi>England;</hi> and yet our Reprobate Cryer, would inſinuate that he was an Atheiſt.</p>
+            <p>And next he ſays, <hi>He was lately Chair-man to a Club of</hi> Jacobites. O Villainous Impoſture! be aſham'd of thy Actions, and Repent, leaſt a worſe Evil come upon thee for thy Impiety: And all that I can imagine you are, is an Interloping Buffoon, an Atheiſtical, Papiſtical, Anabaptiſtical, Non-Scholaſtical, Myſtical <hi>Ignoramus,</hi> that will Reform, Conform, Inform, or be of any Form for your Intereſt; either learn more Wit and Honeſty, or elſe leave off Scribling, and if you do not, I ſhall certainly Expoſe your Folly.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Croom</hi> at the <hi>Blue Ball</hi> in <hi>Thames-ſtreet,</hi> for <hi>W. Rayner,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
